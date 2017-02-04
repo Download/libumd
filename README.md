@@ -2,6 +2,8 @@
 
 # libumd - Wraps given JavaScript code with UMD
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/libumd.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 ```js
